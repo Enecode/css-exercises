@@ -67,3 +67,13 @@ ul {
   align-items: center;
   gap: 16px;
 }
+
+.notifications {
+  margin: 20px;
+}
+
+.profile-image, .notification{
+  align-items: center;
+  gap: 16px;
+  justify-items: center;
+}
